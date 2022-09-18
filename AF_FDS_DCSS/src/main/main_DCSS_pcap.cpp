@@ -1,7 +1,7 @@
 /**
 MIT License
 
-Copyright (c) 2021 hwu(hwu@seu.edu.cn), ???
+Copyright (c) 2021 hwu(hwu@seu.edu.cn), zlshao(zlshao@seu.edu.cn), chentz(chentz@seu.edu.cn)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
