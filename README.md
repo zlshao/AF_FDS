@@ -40,7 +40,7 @@ The meanings of the parameters are as follows:
 |Date|Interception time|Attack type|
 | ---- | ---- | ---- |
 |SAT-01-12-2018|7539 sec - 8128 sec|LDAP|
-|SAT-01-12-2018|8415 sec - 9000 sec|MYSQL|
+|SAT-01-12-2018|8415 sec - 9000 sec|MSSQL|
 |SAT-01-12-2018|9225 sec - 9813 sec|NETBIOS|
 |SAT-01-12-2018|13076 sec - 13660 sec|UDP|
 |SAT-01-12-2018|15161 sec - 15452 sec|SYN|
