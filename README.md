@@ -37,7 +37,7 @@ The meanings of the parameters are as follows:
 - SSPF_end: The end time/packet number of the segment.
 - SSPF_payload: Whether the packet contains payload. 0:no payload, 1:keep original payload. Since the packet of the MAWI data to be mixed does not contain payload, the data generated here also does not contain payload.    
 
-|Date|interception time|Attack type|
+|Date|Interception time|Attack type|
 | ---- | ---- | ---- |
 |SAT-01-12-2018|7539 sec - 8128 sec|LDAP|
 |SAT-01-12-2018|8415 sec - 9000 sec|MYSQL|
