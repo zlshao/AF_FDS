@@ -46,7 +46,7 @@ The meanings of the parameters are as follows:
 |SAT-01-12-2018|15161 sec - 15452 sec|SYN|
 |SAT-03-11-2018|2600 sec - 3069 sec|NETBIOS|
 |SAT-03-11-2018|3827 sec - 4297 sec|LDAP|
-|SAT-03-11-2018|4560 sec - 5082 sec|MYSQL|
+|SAT-03-11-2018|4560 sec - 5082 sec|MSSQL|
 |SAT-03-11-2018|5739 sec - 6252 sec|UDP|
 |SAT-03-11-2018|7871 sec - 8341 sec|SYN|
 
